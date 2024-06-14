@@ -108,7 +108,7 @@ h3 {
 
 .jobs-data-row td {
    border: 1px solid gray;
-   padding: 8px;
+   padding: 7px;
 }
 
 #jobs-table tr:nth-child(odd) {
